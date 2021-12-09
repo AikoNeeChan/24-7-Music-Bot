@@ -6,4 +6,11 @@
 ### Go to `config.json` and Fill it and then
 ### type `npm i` after Everything Installs
 ### type `npm start`
-### and the Bot will Start working
+### and the Bot will Start working 
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+
+
+
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+
+
